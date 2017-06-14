@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Deporte01</string>
+    <string name="marcadorLocal">0</string>
+    <string name="marcadorVisitante">0</string>
+    <string name="puntoPositivo"> + </string>
+    <string name="puntoNegativo"> - </string>
+    <string name="posicion1"> 1 </string>
+    <string name="posicion2"> 2 </string>
+    <string name="posicion3"> 3 </string>
+    <string name="posicion4"> 4 </string>
+    <string name="posicion5"> 5 </string>
+    <string name="posicion6"> 6 </string>
+</resources>
